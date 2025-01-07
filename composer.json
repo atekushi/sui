@@ -1,0 +1,19 @@
+{
+    "name": "atekushi/sui",
+    "description": "PHP View Templating Engine",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Atekushi\\Sui\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Endrika Nanami",
+            "email": "endrika.nanami@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
