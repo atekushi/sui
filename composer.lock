@@ -1,0 +1,61 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "e9f2ecb2ce5a0bad3c1b1b8581d55ee9",
+    "packages": [
+        {
+            "name": "atekushi/support",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/atekushi/support.git",
+                "reference": "7c192451c1fe87a69892346b5ddc8a1166ad7b24"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/atekushi/support/zipball/7c192451c1fe87a69892346b5ddc8a1166ad7b24",
+                "reference": "7c192451c1fe87a69892346b5ddc8a1166ad7b24",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Atekushi\\Support\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Endrika Nanami",
+                    "email": "endrika.nanami@gmail.com"
+                }
+            ],
+            "description": "PHP Package to Support All Atekushi Library",
+            "support": {
+                "issues": "https://github.com/atekushi/support/issues",
+                "source": "https://github.com/atekushi/support/tree/main"
+            },
+            "time": "2025-01-07T08:15:12+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "atekushi/support": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^8.1"
+    },
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}
