@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e9f2ecb2ce5a0bad3c1b1b8581d55ee9",
+    "content-hash": "0008e79a5dd1977abb7bc18fce02c99d",
     "packages": [
         {
             "name": "atekushi/support",
@@ -12,13 +12,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/atekushi/support.git",
-                "reference": "7c192451c1fe87a69892346b5ddc8a1166ad7b24"
+                "reference": "29129cf822c635b84babbe37bc7e0be8ebb8b34b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/atekushi/support/zipball/7c192451c1fe87a69892346b5ddc8a1166ad7b24",
-                "reference": "7c192451c1fe87a69892346b5ddc8a1166ad7b24",
+                "url": "https://api.github.com/repos/atekushi/support/zipball/29129cf822c635b84babbe37bc7e0be8ebb8b34b",
+                "reference": "29129cf822c635b84babbe37bc7e0be8ebb8b34b",
                 "shasum": ""
+            },
+            "require": {
+                "php": "^8.2"
             },
             "default-branch": true,
             "type": "library",
@@ -42,7 +45,7 @@
                 "issues": "https://github.com/atekushi/support/issues",
                 "source": "https://github.com/atekushi/support/tree/main"
             },
-            "time": "2025-01-07T08:15:12+00:00"
+            "time": "2025-01-09T09:31:58+00:00"
         }
     ],
     "packages-dev": [],
@@ -54,7 +57,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "^8.1"
+        "php": "^8.2"
     },
     "platform-dev": {},
     "plugin-api-version": "2.6.0"

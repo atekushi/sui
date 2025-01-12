@@ -16,7 +16,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "atekushi/support": "@dev",
-        "php": "^8.1"
+        "atekushi/support": "dev-main",
+        "php": "^8.2"
     }
 }
