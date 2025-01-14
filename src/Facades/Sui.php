@@ -2,9 +2,9 @@
 
 namespace Atekushi\Sui\Facades;
 
+use Atekushi\Facade\Facade;
 use Atekushi\Sui\Interfaces\ViewInterface;
 use Atekushi\Sui\Sui as BaseClass;
-use Atekushi\Support\Facade;
 
 /**
  * @package Atekushi/Env
